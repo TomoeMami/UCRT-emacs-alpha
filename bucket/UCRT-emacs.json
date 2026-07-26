@@ -16,16 +16,9 @@
         "bin\\emacsclient.exe",
         "bin\\emacsclientw.exe",
         "bin\\etags.exe",
-        "bin\\ctags.exe"
-    ],
-    "shortcuts": [
-        [
-            "bin\\runemacs.exe",
-            "Emacs"
-        ],
         [
             "bin\\emacsclientw.exe",
-            "Emacs Client",
+            "emw",
             "-c -n -a \"\""
         ]
     ],
